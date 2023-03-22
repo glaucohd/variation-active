@@ -19,7 +19,7 @@ o xcode será aberto, e basta executar o projeto normalmente.
 
 Projeto desenvolvido utilizando os padrões de clean arquitetura, SOLID e TDD.
 
-# No aplocativo, utilizei as seguintes libs:
+# No aplicativo, utilizei as seguintes libs:
 
 - provider: Utilizei para gerenciamento de estado
 - http: Utilizei para conexão com serviço
