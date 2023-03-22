@@ -17,4 +17,18 @@ Para executar o projeto, abra a pasta VariationStockChallenge(pode ser pelo term
 Depois da execução do pod install, é necessario abrir o projeto através do arquivo VariationStockChallenge.xcworkspace
 o xcode será aberto, e basta executar o projeto normalmente.
 
+Projeto desenvolvido utilizando os padrões de clean arquitetura, SOLID e TDD.
+
+# No aplocativo, utilizei as seguintes libs:
+
+- provider: Utilizei para gerenciamento de estado
+- http: Utilizei para conexão com serviço
+- chart_sparkline: Utilizei para gerar os graficos
+- mockito: para os testes unitários
+
+
+
+
+
+
 
